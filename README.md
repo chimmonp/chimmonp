@@ -17,7 +17,7 @@
 - :trophy: `Google Developer Student Club` Lead 2022
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Engineering` with specialization in `IoT - Cyber Security - BlockChain Technology`.
-- :thinking: I’m currently open for: `Freelancing` or a new `Internship Opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1WfnwP-DRF1JhF26_2Jh4jOLXNoJTIs2e/view?usp=sharing).
+- :thinking: I’m currently open for: `Freelancing` or a new `Internship Opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1vyPBcIfCyQUwWBc0-5ADArBqE0k4qqcm/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
